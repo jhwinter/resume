@@ -26,7 +26,7 @@
 ### FogChain, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dec 2018 - Present
 #### Software Engineer
 * Developed a RESTful API for scheduling the execution of test suites.
-* Collaborated in a three person team to develop the trident site.
+* Collaborated in a three-person team to develop the trident site.
 * Collaborated with a coworker to refactor a proprietary codeless testing framework from Java to NodeJS.
 * Collaborated with a coworker to improve container architecture.
   * Developed Unix and Windows-compatible scripts to make building and deploying containers easier.
