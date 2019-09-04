@@ -29,7 +29,7 @@
 * Collaborated in a three-person team to develop the trident site.
 * Collaborated with a coworker to refactor a proprietary codeless testing framework from Java to NodeJS.
 * Collaborated with a coworker to improve container architecture.
-  * Developed Unix and Windows-compatible scripts to make building and deploying containers easier.
+  * Developed *nix and Windows-compatible scripts to make building and deploying containers easier.
 * Technologies used: Docker, PHP 7, Python 3, NodeJS, Bash, Java, JavaScript (ES2015), Babel, Bootstrap 4, jQuery, HTML5, CSS3, JSON, Selenium, Appium, WebdriverIO, Mocha, APScheduler, SQLAlchemy
 
 ### Splyse, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2018 - Dec 2018
