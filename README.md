@@ -15,7 +15,7 @@
 ## Skills
 **Languages (fluent):** Python | JavaScript/Node.js | PHP <br />
 **Languages (familiar):** SQL | Bash/Shell scripting | HTML/CSS <br />
-**Databases:** SQL (SQL Server, MySQL) | NoSQL (DynamoDB) <br />
+**Databases:** SQL (MySQL, MS SQL Server) | NoSQL (Amazon DynamoDB) <br />
 **Operating Systems:** Linux | macOS <br />
 **Frameworks:** Bootstrap | Flask | Express.js | Selenium | Appium | WebdriverIO | Mocha.js | Beautiful Soup <br />
 **Methodologies:** Agile Software Development | Object-Oriented Programming | Functional Programming <br />
@@ -37,7 +37,7 @@
 * Developed a dynamic RESTful API to facilitate communication between the Unity instance of the HashPuppies game and the database.
 * Developed a RESTful faucet web app that can disperse any NEP-5 token to visitors.
 * Created and contributed to various open-source projects for the betterment of the NEO ecosystem. This includes neo-boa, neo-python-protocol-maker, neo-nft-template, etc.
-* Technologies used: Docker, Python, DynamoDB, JSON, JSON-RPC, neo-python, PynamoDB, Flask, Selenium
+* Technologies used: Docker, Python, Amazon DynamoDB, JSON, JSON-RPC, neo-python, PynamoDB, Flask, Selenium
 
 ### Wetstone Technologies, Myrtle Beach, SC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feb 2017 - Mar 2018
 #### Malware Analyst Intern
