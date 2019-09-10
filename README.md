@@ -19,7 +19,7 @@
 **Operating Systems:** Linux | macOS <br />
 **Frameworks:** Flask | Express.js | Selenium | Appium | WebdriverIO | Mocha.js | Beautiful Soup | Bootstrap <br />
 **Methodologies:** Functional Programming | Object-Oriented Programming | Agile Software Development <br />
-**Technologies:** Docker | Git | CLI | Vim | jQuery | REST | JSON | JSON-RPC | NEO Blockchain | Smart Contract <br />
+**Technologies:** Docker | Git | CLI | Vi | jQuery | REST | JSON | JSON-RPC | NEO Blockchain | Smart Contract <br />
 
 ## Experience
 ### FogChain, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dec 2018 - Present
