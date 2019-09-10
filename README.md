@@ -14,11 +14,11 @@
 
 ## Skills
 **Languages (fluent):** Python | JavaScript/Node.js | PHP <br />
-**Languages (familiar):** SQL | Bash/Shell scripting | HTML | CSS | Java <br />
+**Languages (familiar):** SQL | Bash/Shell scripting | HTML/CSS <br />
 **Databases:** SQL (SQL Server, MySQL) | NoSQL (DynamoDB) <br />
-**Operating Systems:** Unix/Linux | macOS | Windows <br />
-**Frameworks:** Bootstrap | Flask | Selenium | Appium | Beautiful Soup | Express.js | Mocha.js <br />
-**Methodologies:** Agile Software Development | Object-Oriented Programming, Functional Programming <br />
+**Operating Systems:** Linux | macOS <br />
+**Frameworks:** Bootstrap | Flask | Express.js | Selenium | Appium | WebdriverIO | Mocha.js | Beautiful Soup <br />
+**Methodologies:** Agile Software Development | Object-Oriented Programming | Functional Programming <br />
 **Technologies:** Git | CLI | Vim | Docker | jQuery | REST | JSON-RPC | NEO Blockchain | Smart Contract <br />
 
 ## Experience
@@ -29,7 +29,7 @@
 * Collaborated with a coworker to refactor a proprietary codeless testing framework from Java to Node.js.
 * Collaborated with a coworker to improve container architecture.
   * Developed Shell and Batch scripts to improve container management.
-* Technologies used: Docker, PHP, Python, Node.js, Bash, Java, JavaScript/Node.js, JSON, jQuery, Selenium, Appium, WebdriverIO, Mocha.js, APScheduler, SQLAlchemy
+* Technologies used: Docker, PHP, Python, JavaScript/Node.js, Bash, Java, MySQL, JSON, jQuery, Selenium, Appium, WebdriverIO, Mocha.js, Express.js, Flask, APScheduler, SQLAlchemy
 
 ### Splyse, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2018 - Dec 2018
 #### Software Developer
@@ -37,7 +37,7 @@
 * Developed a dynamic RESTful API to facilitate communication between the Unity instance of the HashPuppies game and the database.
 * Developed a RESTful faucet web app that can disperse any NEP-5 token to visitors.
 * Created and contributed to various open-source projects for the betterment of the NEO ecosystem. This includes neo-boa, neo-python-protocol-maker, neo-nft-template, etc.
-* Technologies used: Docker, Python, JSON-RPC, JSON, neo-python, PynamoDB, Flask, Selenium, DynamoDB
+* Technologies used: Docker, Python, DynamoDB, JSON, JSON-RPC, neo-python, PynamoDB, Flask, Selenium
 
 ### Wetstone Technologies, Myrtle Beach, SC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feb 2017 - Mar 2018
 #### Malware Analyst Intern
