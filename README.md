@@ -28,7 +28,7 @@
 * Developed a RESTful API for scheduling the execution of test suites.
 * Collaborated with a coworker to refactor a proprietary codeless automated testing framework from Java to Node.js.
 * Collaborated with a coworker to improve container architecture and management.
-* Technologies used: Python, JavaScript/Node.js, PHP, Shell scripting, MySQL, JSON, Docker, jQuery, Flask, SQLAlchemy, Selenium, Appium, WebdriverIO, Express.js, Mocha.js
+* Technologies used: Python, Flask, SQLAlchemy, JavaScript/Node.js, jQuery, Express.js, Mocha.js, Selenium, Appium, WebdriverIO, PHP, Shell scripting, MySQL, Amazon Aurora, JSON, Docker
 
 ### Splyse, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2018 - Dec 2018
 #### Software Developer
@@ -36,7 +36,7 @@
 * Developed a dynamic RESTful API to facilitate communication between the Unity instance of the HashPuppies game and the database.
 * Developed a RESTful faucet web app that can disperse any NEP-5 token to visitors.
 * Created and contributed to various open-source projects for the NEO ecosystem. This includes neo-boa, neo-python-protocol-maker, neo-nft-template, etc.
-* Technologies used: Python, Amazon DynamoDB, JSON, JSON-RPC, Docker, Flask, Selenium, PynamoDB
+* Technologies used: Python, Flask, PynamoDB, Amazon DynamoDB, JSON, JSON-RPC, Docker
 
 ### Wetstone Technologies, Myrtle Beach, SC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feb 2017 - Mar 2018
 #### Malware Analyst Intern
@@ -44,4 +44,4 @@
 * Worked in a three-person team to develop, test, debug, and maintain various automation scripts.
 * Collaborated with coworkers to optimize a script used for creating dataset reports with an improved execution time of 97%. 
 * Collaborated in a three-person team to double malware collection over our predecessors
-* Technologies used: Python, PHP, MySQL, SQL Server, Flask, Selenium, Beautiful Soup
+* Technologies used: Python, Flask, Selenium, Beautiful Soup, PHP, MySQL, SQL Server
