@@ -4,7 +4,7 @@
 **Phone Number:** Available Upon Request  
 **Email:** jonathanhwinter@gmail.com    
 **LinkedIn:** <https://www.linkedin.com/in/jonathanhwinter/>    
-**GitHub:** <https://github.com/jonathanhwinter>    
+**GitHub:** <https://github.com/jhwinter>    
 
 ## Education
 ### Coastal Carolina University, Conway, SC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August 2014 - May 2018
