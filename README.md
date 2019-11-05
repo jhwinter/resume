@@ -19,7 +19,7 @@
 **Operating Systems:** Linux (Ubuntu, Alpine) | macOS <br />
 **Frameworks:** Flask | Beautiful Soup | Express.js | Selenium | Appium | WebdriverIO | Mocha.js <br />
 **Methodologies:** Object-Oriented Programming | Functional Programming | Agile Software Development <br />
-**Technologies:** Docker/Docker Swarm | Git | CLI | Vi | REST | JSON-RPC | Blockchain | Smart Contract <br />
+**Technologies:** Docker/Docker Swarm | Git | CLI | Vi | REST | JSON-RPC | Blockchain | Smart Contract | VSCode | Slack | Trello <br />
 
 ## Experience
 ### FogChain, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dec 2018 - Present
