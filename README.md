@@ -36,7 +36,7 @@
 * Developed a dynamic RESTful API to facilitate communication between the Unity instance of the HashPuppies game and the database.
 * Developed a RESTful faucet web app that can disperse any NEP-5 token to visitors.
 * Created and contributed to various open-source projects for the NEO ecosystem. This includes neo-boa, neo-python-protocol-maker, neo-nft-template, etc.
-* Technologies used: Python, Flask, PynamoDB, AWS DynamoDB, Docker, JSON-RPC, NEO Blockchain
+* Technologies used: Python, Flask, PynamoDB, AWS DynamoDB, Docker, JSON-RPC, NEO Blockchain, Smart Contract
 
 ### Wetstone Technologies, Myrtle Beach, SC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feb 2017 - Mar 2018
 #### Malware Analyst Intern
