@@ -26,7 +26,7 @@
 #### Software Engineer
 * Developed enterprise software for Fortune 500 companies.
 * Developed a RESTful API for scheduling the execution of test suites.
-* Ported a proprietary codeless automated testing framework from Java to Node.js.
+* Ported a keyword-driven automated testing framework from Java to Node.js.
 * Improved container architecture and management through the use of scripts.
 * Technologies used: Python, Flask, SQLAlchemy, MySQL, MongoDB, Node.js, Docker/Docker Swarm, Shell Scripting, Express.js, Selenium, Appium, WebdriverIO, Shell scripting, AWS Aurora RDS
 
