@@ -19,7 +19,7 @@
 **Operating Systems:** Linux (Ubuntu, Alpine) | macOS <br />
 **Frameworks:** Flask | Beautiful Soup | Express.js | Selenium | Appium | WebdriverIO | Mocha.js <br />
 **Methodologies:** Object-Oriented Programming | Functional Programming | Agile Software Development <br />
-**Technologies:** Docker/Docker Swarm | Git | CLI | Vi | REST | JSON | JSON-RPC | NEO Blockchain | Smart Contract <br />
+**Technologies:** Docker/Docker Swarm | Git | CLI | Vi | REST | JSON-RPC | Blockchain | Smart Contract <br />
 
 ## Experience
 ### FogChain, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dec 2018 - Present
@@ -36,7 +36,7 @@
 * Developed a dynamic RESTful API to facilitate communication between the Unity instance of the HashPuppies game and the database.
 * Developed a RESTful faucet web app that can disperse any NEP-5 token to visitors.
 * Created and contributed to various open-source projects for the NEO ecosystem. This includes neo-boa, neo-python-protocol-maker, neo-nft-template, etc.
-* Technologies used: Python, Flask, PynamoDB, AWS DynamoDB, Docker, JSON-RPC
+* Technologies used: Python, Flask, PynamoDB, AWS DynamoDB, Docker, JSON-RPC, NEO Blockchain
 
 ### Wetstone Technologies, Myrtle Beach, SC &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Feb 2017 - Mar 2018
 #### Malware Analyst Intern
