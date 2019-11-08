@@ -17,7 +17,7 @@
 **Languages (familiar):** PHP | JavaScript/Node.js | Shell scripting <br />
 **Databases:** SQL (MySQL, SQL Server, AWS Aurora RDS, SQLite) | NoSQL (AWS DynamoDB, MongoDB) <br />
 **Operating Systems:** Linux (Ubuntu, Alpine) | macOS <br />
-**Frameworks:** Flask | Beautiful Soup | Express.js | Selenium | Appium | WebdriverIO | Mocha.js <br />
+**Frameworks:** Flask | pandas | NumPy | Beautiful Soup | Express.js | Selenium | Appium | WebdriverIO | Mocha.js <br />
 **Methodologies:** Object-Oriented Programming | Functional Programming | Agile Software Development <br />
 **Technologies:** Docker/Docker Swarm | Git | CLI | Vi | REST | JSON-RPC | Blockchain | Smart Contract | VSCode | Slack | Trello <br />
 
