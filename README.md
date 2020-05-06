@@ -1,6 +1,6 @@
 # Jonathan Winter
 
-**Location:** Myrtle Beach, SC  
+**Location:** Charleston, SC  
 **Phone Number:** Available Upon Request  
 **Email:** jonathanhwinter@gmail.com    
 **LinkedIn:** <https://www.linkedin.com/in/jonathanhwinter/>    
