@@ -7,7 +7,7 @@
 **GitHub:** <https://github.com/jhwinter>    
 
 ## Education
-### Coastal Carolina University, Conway, SC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August 2014 - May 2018
+### Coastal Carolina University, Conway, SC&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug 2014 - May 2018
 * B.S. in Information Systems (ABET-Accredited) 
 * Minor: Applied Mathematics
 * Honors: *cum laude* (GPA: 3.73/4.0), Upsilon Pi Epsilon Member, President's List (1 semester), Dean's List (6 semesters)
@@ -15,21 +15,22 @@
 ## Skills
 **Languages (fluent):** Python | SQL <br />
 **Languages (familiar):** PHP | JavaScript/Node.js | Shell scripting <br />
-**Databases:** SQL (MySQL, SQL Server, AWS Aurora RDS, SQLite) | NoSQL (AWS DynamoDB, MongoDB) <br />
+**Databases:** SQL (MySQL, PostgreSQL, SQL Server, AWS Aurora RDS, SQLite) | NoSQL (AWS DynamoDB, MongoDB) <br />
 **Operating Systems:** Linux (Ubuntu, Alpine) | macOS <br />
-**Frameworks:** Flask | pandas | NumPy | Beautiful Soup | Express.js | Selenium | Appium | WebdriverIO | Mocha.js <br />
+**Frameworks:** Flask | Express.js | Selenium | Appium | WebdriverIO | Mocha.js <br />
 **Methodologies:** Object-Oriented Programming | Functional Programming | Agile Software Development <br />
-**Technologies:** Docker/Docker Swarm | Git | CLI | Vi | REST | JSON-RPC | Blockchain | Smart Contract | VSCode | Slack | Trello <br />
+**Technologies:** Docker/Docker Swarm | Apache JMeter | Git | CLI | Vi | REST | JSON-RPC | Blockchain | Smart Contract | VSCode | Slack | Trello <br />
 
 ## Experience
 
-### Case Status, Charleston, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2020 - Present
+### Case Status, Charleston, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2020 - Jul 2020
 #### Backend Software Engineer
-* Technologies used: Python, Flask, SQLAlchemy
+* Developed software to facilitate better communication between law firms and their clients.
+* Technologies used: Python, Flask, SQLAlchemy, PostgreSQL, Docker, Apache JMeter
 
 ### FogChain, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Dec 2018 - Feb 2020
 #### Software Engineer
-* Developed enterprise software for Fortune 500 companies.
+* Developed enterprise software to facilitate better testing practices in the DevTestOps pipeline for fortune 500 companies.
 * Developed a RESTful API for scheduling the execution of test suites.
 * Ported a keyword-driven automated testing framework from Java to Node.js.
 * Improved container architecture and management through the use of scripts.
