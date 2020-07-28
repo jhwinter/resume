@@ -18,7 +18,7 @@
 **Databases:** SQL (MySQL, PostgreSQL, SQL Server, AWS Aurora RDS, SQLite) | NoSQL (AWS DynamoDB, MongoDB) <br />
 **Operating Systems:** Linux (Ubuntu, Alpine) | macOS <br />
 **Frameworks:** Flask | Express.js | Selenium | Appium | WebdriverIO | Mocha.js <br />
-**Methodologies:** Object-Oriented Programming | Functional Programming | Agile Software Development <br />
+**Methodologies:** Object-Oriented Programming | Functional Programming | Agile Software Development | Test-driven Development <br />
 **Technologies:** Docker/Docker Swarm | Apache JMeter | Git | CLI | Vi | REST | JSON-RPC | Blockchain | Smart Contract | VSCode | Slack | Trello <br />
 
 ## Experience
