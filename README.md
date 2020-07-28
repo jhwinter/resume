@@ -39,8 +39,8 @@
 
 ### Splyse, Myrtle Beach, South Carolina &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mar 2018 - Dec 2018
 #### Software Developer
-* Developed a reverse auction Smart Contract.
 * Developed a dynamic RESTful API to facilitate communication between the Unity instance of the HashPuppies game and the database.
+* Developed a reverse auction Smart Contract.
 * Developed a RESTful faucet web app that can disperse any NEP-5 token to visitors.
 * Created and contributed to various open-source projects for the NEO ecosystem. This includes neo-boa, neo-python-protocol-maker, neo-nft-template, etc.
 * Technologies used: Python, Flask, PynamoDB, AWS DynamoDB, Docker, JSON-RPC, NEO Blockchain, Smart Contract
